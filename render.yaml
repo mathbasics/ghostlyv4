@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: ghostly
+    env: docker
+    plan: free
